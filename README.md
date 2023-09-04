@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanketvarpe
-- 👀 I’m interested in Backend Development, Startup's, System Design, Problem Solving, Software Engineering.
+- 👀 I’m interested in Startup's, System Design, Problem Solving, Software Engineering.
 - 🌱 I’m currently working as a Software Engineer@UBS.
 - 💞️ I’m looking to collaborate on interesting ideas to convert them into products.
 - 📫 You can reach to me at sanketpvarpe@gmail.com.
